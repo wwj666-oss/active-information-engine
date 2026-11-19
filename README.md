@@ -2,6 +2,14 @@
 
 Numerical code and data for *Optimal Net Work in an Active Information Engine with Costly Sensing*.
 
+## DOI and citation
+
+This submission version is archived in Zenodo: [10.5281/zenodo.24361271](https://doi.org/10.5281/zenodo.24361271).
+
+Wan, W., Ren, H., Dong, A., & Fu, R. (2026). *Code and Data for Optimal Net Work in an Active Information Engine with Costly Sensing* (v1.0.0-submission) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24361271
+
+The deposited ZIP is identical to the verified submission archive below. The submission tag and archive are preserved unchanged. Earlier statements in the bundled validation documents about no Zenodo deposit describe the initial GitHub delivery stage before this DOI record was created.
+
 ## Reproduce
 
 The complete structured source distribution is stored in [active-information-engine-v1.0.0-submission.zip](active-information-engine-v1.0.0-submission.zip). It contains 143 files: scientific source code, scripts, tests, full numerical data and precision schedules, PDF/SVG/PNG figures, pinned dependencies, manuscript identifiers and validation records. The archive delivery preserves the validated directory structure; it is not a binary program.
@@ -33,6 +41,6 @@ daa95881a72a65baca90f892af39ceb23994ade1cd7f16bdb7b9898e8c621b7c
 
 ## Scope
 
-This is a disclosed manuscript-based numerical reconstruction, not a claim to archive the original author code. The reference manuscript PDFs and historical drafts are excluded. Code, generated data and documentation are public at the user's instruction. No Zenodo deposit or integration was used. No reuse license has been assigned; see [LICENSE](LICENSE).
+This is a disclosed manuscript-based numerical reconstruction, not a claim to archive the original author code. The reference manuscript PDFs and historical drafts are excluded. Code, generated data and documentation are public at the user's instruction. The exact submission archive has subsequently been deposited manually in Zenodo; no automatic GitHub integration is enabled. No reuse license has been assigned; see [LICENSE](LICENSE).
 
 The file layout and detailed methods are documented inside the archive. Runtime packages are pinned; platform-specific wheel hashes were verified for CPython 3.11 on macOS arm64. GitHub Actions checks the extracted bundle separately on Linux when available.
