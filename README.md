@@ -1,12 +1,12 @@
 # Active Information Engine — submission v1.0.0
 
-Numerical code and data for *Optimal Net Work in an Active Information Engine with Costly Sensing*.
+Numerical code and data for *Optimal Work in an Active Information Engine with Costly Sensing *.
 
 ## DOI and citation
 
 This submission version is archived in Zenodo: [10.5281/zenodo.24361271](https://doi.org/10.5281/zenodo.24361271).
 
-Wan, W., Ren, H., Dong, A., & Fu, R. (2026). *Code and Data for Optimal Net Work in an Active Information Engine with Costly Sensing* (v1.0.0-submission) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24361271
+Wan, W., Ren, H., Dong, A., & Fu, R. (2026). *Code and Data for Optimal Work in an Active Information Engine with Costly Sensing* (v1.0.0-submission) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24361271
 
 The deposited ZIP is identical to the verified submission archive below. The submission tag and archive are preserved unchanged. Earlier statements in the bundled validation documents about no Zenodo deposit describe the initial GitHub delivery stage before this DOI record was created.
 
